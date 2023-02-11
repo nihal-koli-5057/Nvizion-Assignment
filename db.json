@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "name": "nihals",
+      "userName": "nihalKoli",
+      "email": "nihal@gmail.com",
+      "phone": "9054202926",
+      "password": "Shubham@9898",
+      "roleId": "tester",
+      "id": 1
+    },
+    {
+      "name": "ketan",
+      "userName": "ketanpatil",
+      "email": "ketan@gmail.com",
+      "phone": "9054202926",
+      "password": "Shubham@9898",
+      "roleId": "tester",
+      "id": 2
+    },
+    {
+      "name": "poonam",
+      "userName": "poonamMaurya",
+      "email": "poonam@gmail.com",
+      "phone": "7878451252",
+      "password": "Poonam789@",
+      "roleId": "admin",
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "userName": "test",
+      "email": "ajay@test.com",
+      "phone": "9876543123",
+      "password": "Ajay@123",
+      "roleId": "Test",
+      "id": 4
+    },
+    {
+      "name": "yogeshvakhare",
+      "userName": "yogesh",
+      "email": "yigesh@gmail.com",
+      "phone": "8989898909",
+      "password": "Shubhamm@344",
+      "roleId": "Test",
+      "id": 5
+    },
+    {
+      "name": "shubhampatil",
+      "userName": "shubhamdata",
+      "email": "shubhampatil97144@gmail.com",
+      "phone": "9054202926",
+      "password": "Shubham@12345",
+      "roleId": "developer",
+      "id": 6
+    },
+    {
+      "name": "ajay",
+      "userName": "ajaykoli",
+      "email": "ajayKoli@gmail.com",
+      "phone": "8989674512",
+      "password": "Ajay@123",
+      "roleId": "Test",
+      "id": 7
+    }
+  ],
+  "role": [
+    {
+      "name": "superAdmin",
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "id": 3
+    },
+    {
+      "name": "tester",
+      "id": 4
+    },
+    {
+      "name": "developer",
+      "id": 5
+    },
+    {
+      "name": "Test",
+      "id": 6
+    },
+    {
+      "name": "dadu",
+      "id": 7
+    }
+  ]
+}
